@@ -1,0 +1,1 @@
+For numpy I've learned from some Youtube video resource provided.
