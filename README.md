@@ -13,3 +13,10 @@ In the pre-requisites folder, I've added:
 I've Added some additional files as mentioned above just for record. Please ignore them during evaluation.
 
 LATEX file: https://www.overleaf.com/read/kbpdhmfqphbq#c1a07c
+
+
+I've included task 1 for computer vision named as GRAD-CAM
+It contains:
+-source file in .ipynb for code implementation and grad-cam visuals and heat-maps
+-pdf(latex file) which have the report for this task
+-.py source file also
