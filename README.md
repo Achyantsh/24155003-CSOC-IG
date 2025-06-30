@@ -17,6 +17,6 @@ LATEX file: https://www.overleaf.com/read/kbpdhmfqphbq#c1a07c
 
 I've included task 1 for computer vision named as GRAD-CAM
 It contains:
--source file in .ipynb for code implementation and grad-cam visuals and heat-maps
--pdf(latex file) which have the report for this task
--.py source file also
+- source file in .ipynb for code implementation and grad-cam visuals and heat-maps
+- pdf(latex file) which have the report for this task
+- .py source file also
